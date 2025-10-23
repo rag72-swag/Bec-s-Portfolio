@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bec's Portfolio</title>
+</head>
+<body>
+  <h1>Bec's Portfolio</h1>
+  <p>
+    Welcome to my first web development project! This page showcases the HTML projects I’ve created while learning web design.
+    You’ll find examples of my work, including creative layouts and experiments with HTML and CSS.
+  </p>
+
+  <h2>My Projects</h2>
+  <ul>
+    <li><a href="project1/index.html" target="_blank">My First HTML Project</a></li>
+    <!-- Add more project links if you have them -->
+  </ul>
+
+  <p>Thank you for visiting my page!</p>
+</body>
+</html>
