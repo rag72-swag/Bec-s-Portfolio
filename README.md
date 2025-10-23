@@ -1,5 +1,4 @@
 
-  </style>
 </head>
 <body>
   <h1>Bec's Portfolio</h1>
