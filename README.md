@@ -1,32 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name's Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9fafc;
-      color: #333;
-      margin: 40px;
-      line-height: 1.6;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
+
   </style>
 </head>
 <body>
-  <h1>Your Name's Portfolio</h1>
+  <h1>Bec's Portfolio</h1>
 
   <p>
     Welcome to my first web development project! This page showcases my work as I learn the basics of HTML structure and design.
