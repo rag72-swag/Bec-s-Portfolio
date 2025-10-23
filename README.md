@@ -10,7 +10,7 @@
 
   <h2>My Projects</h2>
   <ul>
-    <li><a href="project1/index.html" target="_blank">My First HTML Project</a></li>
+    <li><a href="project1/index.html" "file:///C:/Users/rag72/AppData/Local/Temp/97860847-f3ac-4702-8a47-596a3c1aa876_default%20project.zip.default%20project.zip/glitch_grit_project/echo.html">My First HTML Project</a></li>
     <li><a href="project2/index.html" target="_blank">My Second HTML Project</a></li>
   </ul>
 
